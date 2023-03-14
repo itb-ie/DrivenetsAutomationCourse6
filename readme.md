@@ -4,4 +4,3 @@
 - Decorators
 - Iterators & Generators
 - Logging
-- 
