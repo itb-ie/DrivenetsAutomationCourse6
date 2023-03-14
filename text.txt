@@ -1,0 +1,3 @@
+hello everyone
+how are you all doing?
+this is now code inside the context mananger
